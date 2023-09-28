@@ -1,0 +1,13 @@
+example = {4,2,3,1}
+example.add(9)
+print(example)
+example.add(0)
+print(example)
+example.update([6])
+print(example)
+example.discard(4)
+print(example)
+example.remove(2)
+print(example)
+example.clear()
+print(example)
