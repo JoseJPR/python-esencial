@@ -1,3 +1,5 @@
+![Python Logo](./assets//logo-python.png.jpg)
+
 # Python Esencial
 
 ## Curso
