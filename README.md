@@ -1,4 +1,4 @@
-![Python Logo](./assets//logo-python.png.jpg)
+![Python Logo](./assets//logo-python.png)
 
 # Python Esencial
 
